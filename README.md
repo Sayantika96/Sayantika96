@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently pursuing my Post-graduation at Thompson Rivers University
-- 🌱 I’m learning Applied Data Science with Python & R
+- 🌱 I’m studying Applied Data Science with Python & R
 - 👯 I’m looking to collaborate on projects related to Python and R
 - 🤔 I’m looking for help with NLP projects
 - 💬 Ask me about Data Analysis
